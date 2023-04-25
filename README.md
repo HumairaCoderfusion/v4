@@ -1,87 +1,169 @@
+# Study Abroad in China - CSE Programs 🎓
+
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img src="https://img.shields.io/badge/IELTS-5.5-blue" alt="IELTS Score" />
+  <img src="https://img.shields.io/badge/GitHub-humairacoderfusion-green" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Email-homairajannatul7%40gmail.com-red" alt="Email" />
+  <img src="https://img.shields.io/badge/Python-Developer-yellow" alt="Python Developer" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-Expert-orange" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/Leadership-Experience-purple" alt="Leadership" />
 </div>
-<h1 align="center">
-  brittanychiang.com - v4
-</h1>
-<p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
-</p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+<div align="center">
+  <h3>🚀 Aspiring Computer Scientist | Problem Solver | Tech Enthusiast</h3>
+</div>
 
-## 🚨 Forking this repo (please read!)
+This repository contains comprehensive information about studying Computer Science and Engineering (CSE) in China, along with my personal profile and achievements.
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+## 👨‍🎓 About Me
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+### Academic Profile
+- **SSC GPA**: 5.00/5.00 (Perfect Score)
+- **HSC GPA**: 5.00/4.50(Excellent)
+- **IELTS Score**: 5.5 (Target: 6.5+)
+- **Email**: homairajannatul7@gmail.com
+- **Current Status**: Applying for Bachelor's in CSE
+- **Target Universities**:
+  - Tsinghua University (Primary)
+  - Peking University
+  - Shanghai Jiao Tong University
+- **Intended Major**: Computer Science and Engineering
+- **Expected Start**: Fall 2024
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+### Technical Profile
+- **GitHub**: [humairacoderfusion](https://github.com/humairacoderfusion)
+- **LinkedIn**: Connected with GitHub profile
+- **Freelancing**:
+  - Upwork (Python Development)
+  - Fiverr (Problem Solving)
+- **Programming Languages & Tools**:
+  - Python (Primary)
+  - Web Development (HTML, CSS, JavaScript)
+  - Data Analysis (Pandas, NumPy)
+  - Problem Solving (Algorithms, Data Structures)
+  - Version Control (Git)
+- **Interests**:
+  - Problem Solving
+  - Leadership
+  - Gaming
+  - AI/ML
+  - Competitive Programming
+  - Web Development
+  - Data Science
 
-### TL;DR
+### Key Achievements 🏆
+- **Debate & Communication**
+  - Success in English debate competitions
+  - Strong public speaking skills
+  - Leadership in academic activities
+  - Team management experience
+  - Event organization
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+- **Technical Skills**
+  - Rubik's cube solving expertise
+  - Problem-solving competitions
+  - Gaming and sports achievements
+  - Python project development
+  - Algorithm optimization
+  - Data structure implementation
+  - Web application development
 
-## 🛠 Installation & Set Up
+- **Certifications & Training**
+  - United Nations Climate Change Certificate
+  - Python Programming Certifications
+  - Problem Solving Certifications
+  - Leadership Development Programs
+  - Web Development Certifications
+  - Data Science Fundamentals
 
-1. Install the Gatsby CLI
+- **Professional Development**
+  - Freelancing experience on Upwork & Fiverr
+  - Project portfolio development
+  - Technical community involvement
+  - Open source contributions
+  - Client project management
+  - Code review experience
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+### Projects & Work 💻
+- **Python Projects**
+  - Data Analysis Tools
+  - Automation Scripts
+  - Problem Solving Solutions
+  - Web Applications
+  - Machine Learning Models
+  - API Development
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+- **Freelance Work**
+  - Python Development
+  - Problem Solving
+  - Technical Consulting
+  - Code Review
+  - Project Management
+  - Client Communication
 
-   ```sh
-   nvm install
-   ```
+## 📚 Repository Contents
 
-3. Install dependencies
+### Study Abroad Guide
+- Comprehensive information about CSE programs in China
+- University rankings and requirements
+- Scholarship opportunities
+- Application process
+- Cost of living
+- Career prospects
+- Visa requirements
+- Accommodation options
 
-   ```sh
-   yarn
-   ```
+### Technical Resources
+- Programming certifications
+- Project portfolio guidelines
+- Learning platforms
+- Tech communities
+- Job portals
+- Coding practice resources
+- Development tools
 
-4. Start the development server
+## 🚀 Getting Started
 
-   ```sh
-   npm start
-   ```
+1. Browse through the [Study Abroad Guide](content/study-abroad.md)
+2. Check the [Technical Qualifications](content/study-abroad.md#technical-qualifications-and-skills-for-bachelors-applications)
+3. Review [Application Requirements](content/study-abroad.md#application-requirements)
+4. Explore [Scholarship Opportunities](content/study-abroad.md#scholarships)
 
-## 🚀 Building and Running for Production
+## 📫 Contact
 
-1. Generate a full static production build
+For more information about CSE programs in China or to connect:
+- **Email**: homairajannatul7@gmail.com
+- **GitHub**: [humairacoderfusion](https://github.com/humairacoderfusion)
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Freelancing**:
+  - [Upwork Profile]
+  - [Fiverr Profile]
 
-   ```sh
-   npm run build
-   ```
+## 🎯 Current Goals
+- Improve IELTS score to 6.5+
+- Build technical project portfolio
+- Expand freelancing work
+- Prepare for university applications
+- Develop leadership skills
+- Participate in more coding competitions
+- Contribute to open source projects
+- Learn advanced Python concepts
+- Master data structures and algorithms
+- Build full-stack applications
 
-1. Preview the site as it will appear once deployed
+## 📈 Future Aspirations
+- Graduate with honors from top Chinese university
+- Work in leading tech companies
+- Contribute to AI/ML research
+- Start a tech startup
+- Mentor future developers
+- Contribute to global tech community
 
-   ```sh
-   npm run serve
-   ```
+## 📝 License
 
-## 🎨 Color Reference
+This project is open source and available under the MIT License.
 
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
-| Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
-| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+---
+<div align="center">
+  Made with ❤️ for CSE Education | Follow my journey on GitHub!
+</div>
