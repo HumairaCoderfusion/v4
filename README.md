@@ -1,7 +1,6 @@
 # Study Abroad in China - CSE Programs 🎓
 
 <div align="center">
-  <img src="https://img.shields.io/badge/IELTS-5.5-blue" alt="IELTS Score" />
   <img src="https://img.shields.io/badge/GitHub-humairacoderfusion-green" alt="GitHub Profile" />
   <img src="https://img.shields.io/badge/Email-homairajannatul7%40gmail.com-red" alt="Email" />
   <img src="https://img.shields.io/badge/Python-Developer-yellow" alt="Python Developer" />
@@ -18,15 +17,11 @@ This repository contains comprehensive information about studying Computer Scien
 ## 👨‍🎓 About Me
 
 ### Academic Profile
-- **SSC GPA**: 5.00/5.00 (Perfect Score)
-- **HSC GPA**: 5.00/4.50(Excellent)
-- **IELTS Score**: 5.5 (Target: 6.5+)
-- **Email**: homairajannatul7@gmail.com
 - **Current Status**: Applying for Bachelor's in CSE
 - **Target Universities**:
-  - Tsinghua University (Primary)
-  - Peking University
-  - Shanghai Jiao Tong University
+  - Top-tier Chinese universities
+  - Focus on CSE programs
+  - Research-oriented institutions
 - **Intended Major**: Computer Science and Engineering
 - **Expected Start**: Fall 2024
 
@@ -140,7 +135,6 @@ For more information about CSE programs in China or to connect:
   - [Fiverr Profile]
 
 ## 🎯 Current Goals
-- Improve IELTS score to 6.5+
 - Build technical project portfolio
 - Expand freelancing work
 - Prepare for university applications
